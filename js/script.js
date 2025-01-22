@@ -25,8 +25,8 @@ const folderNames = [
 
 // Manually define songs for now
 const songsByFolder = {
-  "Angry_(mood)": ["song1.mp3", "song2.mp3"],
-  "Bright_(mood)": ["song1.mp3"],
+  "Angry_(mood)": ["angry-hard-epic-piano-music.mp3", "angry-robot-iii.mp3"],
+  "Bright_(mood)": ["bright-business.mp3"],
   "Love_(mood)": ["song1.mp3", "song2.mp3"],
   // Add other folders here similarly
 };
